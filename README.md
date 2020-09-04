@@ -1,4 +1,4 @@
-# Border-Radius Previewer
+# Calculator
 
 <p>Você pode ver minha aplicação funcionando nesse link: <a href="https://serene-bell-e7f4f6.netlify.app/" target="_blank" >Aqui</a></p> 
 
