@@ -5,13 +5,13 @@
   cursor: pointer;
   display: flex;
   font-size: 35px;
-  height: 80px;
+  height: 60px;
   justify-content: center;
-  width: 80px;
+  width: 60px;
 }
 
 .Button.zero {
-  width: 170px;
+  width: 130px;
   grid-column: 1 / span 2;
   border-radius: 57.5px;
   position: relative;
